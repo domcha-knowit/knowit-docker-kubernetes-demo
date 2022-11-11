@@ -1,0 +1,15 @@
+{
+  "name": "container-web-test",
+  "private": true,
+  "version": "0.0.4",
+  "description": "Demo app for Docker och Kubernetes demo",
+  "main": "app.js",
+  "author": "Dominic Chan <dominic.chan@knowit.se>",
+  "license": "May contain vulnerabilities!",
+  "dependencies": {
+    "express": "4.17.1",
+    "mocha": "^9.2.2",
+    "pug": "3.0.2",
+    "supertest": "6.1.3"
+  }
+}
